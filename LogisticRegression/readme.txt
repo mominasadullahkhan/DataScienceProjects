@@ -1,1 +1,1 @@
-
+Performed Logistic Regression on company data to decide whether a model can be created that will predict whether or not they will click on an ad based off the features of that user. Disclaimer: The data is fake and the project was for fun!
