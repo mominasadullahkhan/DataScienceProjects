@@ -4,3 +4,5 @@
 • Model implemented using a Hashing Vectorizer and Logistic Regression Classifier in Python.
 
 Implementation of the app can be found at https://mominkhan.pythonanywhere.com
+
+The code for the trained model can be found in the file modelbeforepickledump.ipynb
